@@ -1,0 +1,8 @@
+# Other files and folders
+.idea/
+
+#
+*.swf
+*.air
+*.ipa
+
